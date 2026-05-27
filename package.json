@@ -1,0 +1,14 @@
+{
+  "name": "web-proxy-furg",
+  "version": "1.0.0",
+  "description": "Web Proxy com Controle de Conteúdo — Sistemas para Internet 2 — FURG 2026/1",
+  "main": "proxy.js",
+  "scripts": {
+    "start": "node proxy.js",
+    "dev": "node --watch proxy.js"
+  },
+  "keywords": ["proxy", "http", "node", "furg"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {}
+}
